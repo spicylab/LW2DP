@@ -18,4 +18,5 @@ Here are more detailed comparision result between `LW2DP` and `Corgi Engine`.
 
 Is this a replacement of Corgi?
 ----
-No, This is not aimed to replace the Corgi. 
+No, This is not aimed to replace the Corgi. Corgi still provide you strong feature-set which is not avalible in `LW2DP`.<br>
+`LW2DP` is more focused on the performance. For example, AI does not need accurate levels of computation unlike Player. You may use `Corgi` to Player and `LW2DP` to AI.
